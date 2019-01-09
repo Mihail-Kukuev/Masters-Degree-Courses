@@ -1,0 +1,12 @@
+[submodule "Big Data Processing Algorithms"]
+	path = Big Data Processing Algorithms
+	url = https://github.com/Mihail-Kukuev/Big-Data-Processing-Algorithms
+[submodule "Machine Learning"]
+	path = Machine Learning
+	url = https://github.com/Mihail-Kukuev/ML-Course
+[submodule "Neural Networks"]
+	path = Neural Networks
+	url = https://github.com/Mihail-Kukuev/Neural-Networks-Course
+[submodule "Randomized Algorithms"]
+	path = Randomized Algorithms
+	url = https://github.com/Mihail-Kukuev/Randomized-Algorithms
