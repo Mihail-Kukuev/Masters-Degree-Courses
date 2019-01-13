@@ -10,3 +10,6 @@
 [submodule "Randomized Algorithms"]
 	path = Randomized Algorithms
 	url = https://github.com/Mihail-Kukuev/Randomized-Algorithms
+[submodule "Highload Web Systems"]
+	path = Highload Web Systems
+	url = https://github.com/Mihail-Kukuev/Random-Saying-Generator
